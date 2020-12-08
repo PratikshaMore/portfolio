@@ -72,7 +72,7 @@ export default class About extends Component {
                 </span>
                 <div className="desc">
                     <h3>Programming Languages</h3>
-                    <p>Java, .NET, Spring Boot, React, Swift</p>
+                    <p>Java, .NET, C#, Spring Boot, React, Swift</p>
                 </div>
                 </div>
             </div>
