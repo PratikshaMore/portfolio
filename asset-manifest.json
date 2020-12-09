@@ -1,14 +1,14 @@
 {
-  "main.css": "/portfolio/static/css/main.bb6443df.chunk.css",
-  "main.js": "/portfolio/static/js/main.04094625.chunk.js",
-  "main.js.map": "/portfolio/static/js/main.04094625.chunk.js.map",
+  "main.css": "/portfolio/static/css/main.7dc03c23.chunk.css",
+  "main.js": "/portfolio/static/js/main.a58bf9c4.chunk.js",
+  "main.js.map": "/portfolio/static/js/main.a58bf9c4.chunk.js.map",
   "runtime~main.js": "/portfolio/static/js/runtime~main.0fad4c0f.js",
   "runtime~main.js.map": "/portfolio/static/js/runtime~main.0fad4c0f.js.map",
   "static/js/2.646f3d2a.chunk.js": "/portfolio/static/js/2.646f3d2a.chunk.js",
   "static/js/2.646f3d2a.chunk.js.map": "/portfolio/static/js/2.646f3d2a.chunk.js.map",
   "index.html": "/portfolio/index.html",
-  "precache-manifest.604fb2e749a664e738354cc6dd0ac5e0.js": "/portfolio/precache-manifest.604fb2e749a664e738354cc6dd0ac5e0.js",
+  "precache-manifest.f5a5e870f6781b1d972c540c67d1e801.js": "/portfolio/precache-manifest.f5a5e870f6781b1d972c540c67d1e801.js",
   "service-worker.js": "/portfolio/service-worker.js",
-  "static/css/main.bb6443df.chunk.css.map": "/portfolio/static/css/main.bb6443df.chunk.css.map",
+  "static/css/main.7dc03c23.chunk.css.map": "/portfolio/static/css/main.7dc03c23.chunk.css.map",
   "static/media/Resume_PratikshaMore.pdf": "/portfolio/static/media/Resume_PratikshaMore.d8acf646.pdf"
 }
